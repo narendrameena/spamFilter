@@ -1,0 +1,76 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 24063 invoked from network); 21 Feb 2015 17:00:16 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 21 Feb 2015 17:00:16 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 21 Feb 2015 17:00:16 -0000
+Received: (qmail 22676 invoked from network); 21 Feb 2015 17:00:15 -0000
+Received: from r011-imp001.localhost ([103.251.159.92])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 21 Feb 2015 17:00:15 -0000
+Received: by r011-imp001.localhost (Postfix, from userid 1002)
+	id 716471508F20; Sun, 22 Feb 2015 01:59:51 +0900 (JST)
+Received: from localhost (unknown [10.78.162.90])
+	by localhost (Postfix) with ESMTP id 4A6BD1048C4B
+	for <cvs@bruce-guenter.dyndns.org>; Sun, 22 Feb 2015 01:59:39 +0900 (JST)
+MIME-Version: 1.0
+Content-Type: multipart/related;
+ boundary="=_e1836749388d952e5c66fda2b9e5c5ba"
+To: <cvs@bruce-guenter.dyndns.org>
+From: =?Shift_JIS?B?W5egXYujlG4=?=<mail@satbohsma.com>
+Subject: =?Shift_JIS?B?i6OUbo1EgquVS4ypISE=?=
+Message-Id: <20150221165939.4A6BD1048C4B@npqvlummf.auwf>
+Date: Sun, 22 Feb 2015 01:59:39 +0900 (JST)
+
+--=_e1836749388d952e5c66fda2b9e5c5ba
+Content-Type: multipart/alternative;
+ boundary="=_f98e4313c2ec7ee6b7e2c6e60b8e301e"
+
+--=_f98e4313c2ec7ee6b7e2c6e60b8e301e
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=Shift_JIS
+
+
+--=_f98e4313c2ec7ee6b7e2c6e60b8e301e
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset=Shift_JIS
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjEvL0VOIiAiaHR0cDov
+L3d3dy53My5vcmcvVFIveGh0bWwxMS9EVEQveGh0bWwxMS5kdGQiPgo8aHRtbD4NCjxib2R5Pjxk
+aXYgc3R5bGU9J2JvcmRlcjogMXB4IHNvbGlkIGJsYWNrOyBtYXJnaW4tbGVmdDogYXV0bzsgbWFy
+Z2luLXJpZ2h0OiBhdXRvOyB3aWR0aDogMjUwcHg7IGJhY2tncm91bmQtY29sb3I6ICc+PGltZyBz
+cmM9J2NpZDptYWlsX3RvcCcgc3R5bGU9J3dpZHRoOiAyNTBweDsnPjxicj4NCg0KDQo8YnI+DQqQ
+4pHOgsmPn4LEgumU6ZangvCLs4KmgtyCt4FCDQo8YSBocmVmPSJodHRwOi8vdzEudHJldWUtbWVu
+c2NoLmNvbS9hZ20veTJ4Y2sucGhwPzl6PXQwRjU3UTgxSlFGRTgwcndMMG5NODBwMXpNbzU4UVA1
+enJiYiI+lOmWp4LMk/yC6Iz7PC9hPjxicj4NCg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJy
+Pg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0K
+PGJyPg0KgaQggqiPWoLcgqKCzJJuiOaCzIK3gq6J74KmgumPl5CrgvCCt4KugsmMqYLCgq+C6Y6W
+gqqPb5eIgtyCt4FCPGJyPg0KPGEgaHJlZj0iaHR0cDovL3cxLnRyZXVlLW1lbnNjaC5jb20vYWdt
+L3kyeGNrLnBocD85ej1MbThHOFE4Y3pRa2d6TTZwOE1MdzhRbk44TVBjOG02MzhpYmIiPo9vie+C
+ooNpg3I8L2E+PGJyPg0KPGJyPg0KgaQgjLuOwJNJgsmO+5P8gvCRnYLigrWCvYKilfuCyZVLjKmB
+eZNvmF6QbJCUkKeMwJKGgUGOY4LojOOLzYKpgXo8YnI+DQo8YSBocmVmPSJodHRwOi8vdzEudHJl
+dWUtbWVuc2NoLmNvbS9hZ20veTJ4Y2sucGhwPzl6PUwwek44TVBjOG02TThNTGc3UUxSOE1ybTdP
+eXV6TWsxOHliYiI+j9qN14LNg1KDYIOJPC9hPjxicj4NCjxicj4NCoGkIJVzl8+BRYNag3SDjIFF
+ioSC6JDYguiCzIrWjFeC8IKoklSCtYLMlfuCzZVLjKmBSYFJPGJyPg0KPGEgaHJlZj0iaHR0cDov
+L3cxLnRyZXVlLW1lbnNjaC5jb20vYWdtL3kyeGNrLnBocD85ej10MEY1N1E4MUwwMnA4TUx3OFFu
+TTgwcEc4bXJSelFybXp5YmIiPo/ajdeCzYNSg2CDiYKpguc8L2E+PGJyPg0KPGJyPg0KgaQggseC
+yIK9gsWC4JeIk1iVc5d2gsWRppP6l1qOkYKqicKUXCEhPGJyPg0KPGEgaHJlZj0iaHR0cDovL3cx
+LnRyZXVlLW1lbnNjaC5jb20vYWdtL3kyeGNrLnBocD85ej1KUUZFODByd0xtODE4MExtODBQZ3Qw
+RjU3UTgxTDB5YiI+gnGCboJ4gmCCayiDjYNDg4SDiyk8L2E+PGJyPg0KPGJyPg0KPGJyPg0KPGJy
+Pg0KPGEgaHJlZj0iaHR0cDovL3cxLnRyZXVlLW1lbnNjaC5jb20vYWdtL3EyMC5waHA/OXo9dDBG
+NTdRODFMbXkxN1FMNTdRb2c4aHl1ek1rMTh5YmIiPo13k8ePSZe5PC9hPjxicj4NCjxicj4NCjxi
+cj4NCjwvZGl2PjwvYm9keT4NCjwvaHRtbD4=
+--=_f98e4313c2ec7ee6b7e2c6e60b8e301e--
+
+--=_e1836749388d952e5c66fda2b9e5c5ba
+Content-Type: message/external-body; access-type=x-deleted; length=1702
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <mail_top>
+Content-Type: image/gif;
+ name="mail_top.gif"
+
+--=_e1836749388d952e5c66fda2b9e5c5ba--
+
