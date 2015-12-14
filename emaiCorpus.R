@@ -94,24 +94,10 @@ email.files <- list.files("data", ".ivanova", recursive=TRUE, full.names=TRUE)
 #email_txts
 #email_txts[200]
 #parse.email(paste(data.path,email_txts[1]))
-result <- c(parse.email("/Users/naru/Documents/R_workshop/SpamFilter/data/1423436693.12029_23.ivanova"))
-write.csv(result, file = "Output.csv", append = T)
+#result <- c(parse.email("/Users/naru/Documents/R_workshop/SpamFilter/data/1423436693.12029_23.ivanova"))
+#write.csv(result, file = "Output.csv", append = T)
 #parse.email(email.file)
 
-for (i in email.files){
-  #print(i)
-  if(file.info(i)$size != 0){
-  result <- parse.email(i)
-  #print(paste(result[1],'\\t', result[2],'\\t', result[3],'\\t', result[5],'\\n'))
-  print(result)
-  #cat( result,file="output.csv",append=TRUE)
-  write.csv(result, file = "Output.csv", append = T)
-  #cat( "\n",file="output.csv",append=TRUE)
-  }
-  else{
-  print("File contain no data")
-    }
-}
 
 easyham.path <-"/Users/naru/Documents/R_workshop/SpamFilter/data/"
 easyham.docs <- dir(easyham.path)
@@ -128,5 +114,6 @@ dim(allparse.df)
 allparse.df[5]
 names(allparse.df) <- c("Date", "From.EMail", "Subject", "Message", "Path")
 
-write.csv(allparse.df,file="spameDAta.csv")
-
+#write.csv(allparse.df,file="spameDAta.csv")
+library(xlsx)
+write.xlsx(allparse.df, file="spameDAta.xlsx")
